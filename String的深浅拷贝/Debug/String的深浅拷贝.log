@@ -1,0 +1,8 @@
+﻿  string.cpp
+e:\编程代码\string的深浅拷贝\string的深浅拷贝\string.cpp(21): error C2969: 语法错误:“;”: 成员函数定义应以“}”结尾
+e:\编程代码\string的深浅拷贝\string的深浅拷贝\string.cpp(9): error C2614: “String”: 非法的成员初始化:“_str”不是基或成员
+e:\编程代码\string的深浅拷贝\string的深浅拷贝\string.cpp(10): error C2065: “_str”: 未声明的标识符
+e:\编程代码\string的深浅拷贝\string的深浅拷贝\string.cpp(14): error C2039: “_str”: 不是“String”的成员
+  e:\编程代码\string的深浅拷贝\string的深浅拷贝\string.cpp(5): note: 参见“String”的声明
+e:\编程代码\string的深浅拷贝\string的深浅拷贝\string.cpp(20): error C2612: 基/成员初始值设定项列表中的非法后缀“private”
+e:\编程代码\string的深浅拷贝\string的深浅拷贝\string.cpp(23): fatal error C1004: 发现意外的文件尾
